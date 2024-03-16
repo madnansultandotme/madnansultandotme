@@ -37,11 +37,11 @@
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
-<a href="https://github.com/devmbilal">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devmbilal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devmbilal&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/madnansultandotme">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=madnansultandotme&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madnansultandotme&layout=compact&langs_count=8&theme=algolia"/>
 </a>
   
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=devmbilal&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=madnansultandotme&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 </p>
