@@ -34,4 +34,14 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dev.madnansultan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dev.madnansultan" /></a><a href="https://ko-fi.com/madnansultan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="madnansultan" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madnansultandotme&show_icons=true&locale=en&layout=compact" alt="madnansultandotme" /></p>
+<h2><i>⚙️ GitHub Analytics</i></h2>
+
+<p align="center">
+<a href="https://github.com/devmbilal">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devmbilal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devmbilal&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+  
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=devmbilal&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+</p>
+</p>
