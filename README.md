@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdsdWEyMjYxa2s5N252M3M5b3k5dWQzaDRjcmw4dGozeTd3ZTAxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" />
+</div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=madnansultandotme.visitor-badge" />
 <h1 align="center"> Hi there 👋 hope you're good.</h1>
 <h2 align="center">Welcome to my GitHub profile!</h2>
@@ -5,6 +8,7 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&center=true&random=false&width=500&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+MUhammad+Adnan+Sultan" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">A passionate full-stack developer from Pakistan</h3>
+<image align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzU2ZWNuM2h3MzE3YWxobDNkbHJycnE5Nm44YXRkenRmNjJrM2djMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
 
 - 🔭 I’m currently working on **Web Development Company Website**
 
