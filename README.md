@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **C++,Java Swing,Django and Database**
 
-- 📫 How to reach me **dev.madnansultan@gmail.com**
+- 📫 How to reach me **info.adnansultan@gmail.com**
 
 - ⚡ Fun fact **I think i smile a lot**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madnansultandotme" alt="Muhammad Adnan Sultan" /></a> </p>
