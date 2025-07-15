@@ -12,13 +12,13 @@
 
 - 🔭 I’m currently working on **Web Development Company Website**
 
-- 🌱 I’m currently learning **Golang,Machine Learning**
+- 🌱 I’m currently learning **LLMs API Integration,Machine Learning**
 
 - 👯 I’m looking to collaborate on **Desktop Application Development**
 
 - 🤝 I’m looking for help with **Full Stack Development**
 
-- 💬 Ask me about **C++,Java Swing,Django and Database**
+- 💬 Ask me about **C++,Java Swing,Django and Database,Python**
 
 - 📫 How to reach me **info.adnansultan@gmail.com**
 
